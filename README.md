@@ -3,7 +3,7 @@ https://jotarotachino.shinyapps.io/TraumaApp_2025/
 
 This online platform allows users to calculate trauma severity and predicted survival time (TRISS method) and determine trauma phenotypes by inputting variables through side widgets. The trauma phenotype of the input patient is displayed as New on the UMAP. The baseline UMAP is based on the results of previous research (Crit Care. 2022).<br/>
 By calculating probability densities, the top 3 most likely cluster memberships for the patient are computed and displayed.
-Additionally, data can be saved by clicking Register Data (a feature available only to research collaborators)."),
+Additionally, data can be saved by clicking Register Data (a feature available only to research collaborators).
 
 ### Reference
 1) Tachino J., Matsumoto H., Sugihara F., Seno S., Okuzaki D., Kitamura T. et al: Development of clinical phenotypes and biological profiles via proteomic analysis of trauma patients. [Crit Care. 2022; 26:1:241.](https://ccforum.biomedcentral.com/articles/10.1186/s13054-022-04103-z)<br/>
