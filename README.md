@@ -6,7 +6,7 @@ By calculating probability densities, the top 3 most likely cluster memberships 
 Additionally, data can be saved by clicking Register Data (a feature available only to research collaborators).
 
 ### Reference
-1) Tachino J., Matsumoto H., Sugihara F., Seno S., Okuzaki D., Kitamura T. et al: Development of clinical phenotypes and biological profiles via proteomic analysis of trauma patients. <a href="https://ccforum.biomedcentral.com/articles/10.1186/s13054-022-04103-z" target="_blank">Crit Care. 2022; 26:1:241.</a><br/>
+1) Tachino J., Matsumoto H., Sugihara F., Seno S., Okuzaki D., Kitamura T. et al: Development of clinical phenotypes and biological profiles via proteomic analysis of trauma patients. [Crit Care. 2022; 26:1:241.](https://ccforum.biomedcentral.com/articles/10.1186/s13054-022-04103-z)<br/>
 2) Tachino J., Seno S., Matsumoto H., Kitamura T., Hirayama A., Nakao S. et al: Association between tranexamic acid administration and mortality based on the trauma phenotype: a retrospective analysis of a nationwide trauma registry in Japan. [Crit Care. 2024; 28:1:89.](https://ccforum.biomedcentral.com/articles/10.1186/s13054-024-04871-w)
 
 ### Ligal statement
