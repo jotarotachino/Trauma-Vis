@@ -15,8 +15,14 @@ Research collaborators are granted permission to save input data as datasheets i
 1) Tachino J., Matsumoto H., Sugihara F., Seno S., Okuzaki D., Kitamura T. et al: Development of clinical phenotypes and biological profiles via proteomic analysis of trauma patients. [Crit Care. 2022; 26:1:241.](https://ccforum.biomedcentral.com/articles/10.1186/s13054-022-04103-z)<br/>
 2) Tachino J., Seno S., Matsumoto H., Kitamura T., Hirayama A., Nakao S. et al: Association between tranexamic acid administration and mortality based on the trauma phenotype: a retrospective analysis of a nationwide trauma registry in Japan. [Crit Care. 2024; 28:1:89.](https://ccforum.biomedcentral.com/articles/10.1186/s13054-024-04871-w)
 
-## Ligal statement
-This application may be used as a tool to assist in predicting outcomes for trauma patients. However, the prediction system can only complement, never replace, clinical judgment and therefore should be used solely as a decision-support system.
-This application is not an attempt to practice medicine or provide specific medical advice, nor does the use of the application establish a doctor-patient relationship. For medical treatment or answers to personal questions, we strongly encourage you to consult with a qualified healthcare provider. For advice about your own care, please ask your doctor.<br/>
-You assume full responsibility for using this application, and you understand and agree that we are not responsible or liable for any claim, loss, or damage resulting from its use. While we strive to keep the information in the application as accurate as possible, we disclaim any warranty concerning its accuracy, timeliness, and completeness, and any other warranty, express or implied, including warranties of merchantability or fitness for a particular purpose. We do not warrant that access to the application will be error- or virus-free.<br/>
+## Legal Disclaimer and Terms of Use
+### Purpose and Limitations
+This application serves as a decision-support tool to assist in predicting outcomes for trauma patients. It is designed to complement, but never replace, clinical judgment. This system should be used exclusively as a decision-support aid in conjunction with professional medical assessment.
+### Non-Medical Advice Disclaimer
+This application does not constitute medical practice or provide specific medical advice, nor does the use of the application establish a doctor-patient relationship. For medical treatment or answers to personal questions, we strongly encourage you to consult with a qualified healthcare provider. For advice about your own care, please ask your doctor.
+### Usage Agreement and Liability
+You assume full responsibility for using this application, and you understand and agree that we are not responsible or liable for any claim, loss, or damage resulting from its use. While we strive to keep the information in the application as accurate as possible, we disclaim any warranty concerning its accuracy, timeliness, and completeness, and any other warranty, express or implied, including warranties of merchantability or fitness for a particular purpose. We do not warrant that access to the application will be error- or virus-free.
+### Research Restrictions
+As trauma phenotype research is still ongoing, users are requested to refrain from conducting clinical research or publishing papers using this platform without proper authorization.
+### Acceptance
 By using this application, you acknowledge that you have read, understood, and agreed to these terms and conditions.
