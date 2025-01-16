@@ -1,4 +1,6 @@
 # Trauma-App 
+![Screenshot of Trauma App]
+(https://jotarotachino.shinyapps.io/TraumaApp_2025)
 URL: https://jotarotachino.shinyapps.io/TraumaApp_2025/<br/>
 (last update: 15th January 2025)
 
