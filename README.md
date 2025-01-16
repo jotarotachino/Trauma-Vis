@@ -1,5 +1,5 @@
 # Trauma-App 
-<img src="https://github.com/user-attachments/assets/7816daa4-8984-48e6-a22a-ec3a055c19fb" width="480">
+<img src="https://github.com/user-attachments/assets/7816daa4-8984-48e6-a22a-ec3a055c19fb" width="480"><br/>
 URL: https://jotarotachino.shinyapps.io/TraumaApp_2025/<br/>
 (last update: 15th January 2025)
 
