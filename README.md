@@ -1,7 +1,7 @@
 # Trauma-Vis
 <img src="https://github.com/user-attachments/assets/7816daa4-8984-48e6-a22a-ec3a055c19fb" width="480"><br/>
 URL: https://jotarotachino.shinyapps.io/TraumaApp250305/<br/>
-(last update: 15th January 2025)
+(last update: 22 July 2025)
 
 ## Trauma phenotype
 In previous research, eight trauma phenotypes were identified through cluster analysis of derivation cohort data from the Japan Trauma Data Bank (JTDB) from January 2013 to June 2015. The optimal number of clusters was determined using the average silhouette score and k-means method. After standardizing patient data, clustering was performed based on Euclidean distance using silhouette analysis, leading to the development of trauma phenotypes.<br/>
