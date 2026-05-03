@@ -20,7 +20,6 @@ Profiles: [researchmap](https://researchmap.jp/jotarotachino?lang=en) | [ORCID](
 
 I am interested in advancing precision trauma care by integrating trauma phenotyping, prognostic modeling, treatment-effect heterogeneity analysis, causal inference, and trauma proteomics. Trauma-Vis was developed as part of this research program to translate trauma phenotype research into an accessible web-based platform for visualization, hypothesis generation, and collaborative research.
 
-Research areas: precision trauma care, trauma phenotyping, treatment-effect heterogeneity, prognostic modeling, and trauma proteomics.
 
 ## Trauma phenotype
 In previous research, eight trauma phenotypes were identified through cluster analysis of derivation cohort data from the Japan Trauma Data Bank (JTDB) from January 2013 to June 2015. The optimal number of clusters was determined using the average silhouette score and k-means method. After standardizing patient data, clustering was performed based on Euclidean distance using silhouette analysis, leading to the development of trauma phenotypes.<br/>
