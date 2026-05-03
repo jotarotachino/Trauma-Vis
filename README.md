@@ -18,6 +18,8 @@ Department of Traumatology and Acute Critical Care Medicine, University of Osaka
 
 Profiles: [researchmap](https://researchmap.jp/jotarotachino?lang=en) | [ORCID](https://orcid.org/0000-0002-0423-7713) | [PubMed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/jotaro.tachino.1/bibliography/public/) | [Google Scholar search](https://scholar.google.com/scholar?q=%22Jotaro%20Tachino%22)
 
+I am interested in advancing precision trauma care by integrating trauma phenotyping, prognostic modeling, treatment-effect heterogeneity analysis, causal inference, and trauma proteomics. Trauma-Vis was developed as part of this research program to translate trauma phenotype research into an accessible web-based platform for visualization, hypothesis generation, and collaborative research.
+
 Research areas: precision trauma care, trauma phenotyping, treatment-effect heterogeneity, prognostic modeling, and trauma proteomics.
 
 ## Trauma phenotype
