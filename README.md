@@ -1,7 +1,22 @@
 # Trauma-Vis
+
+**A web-based trauma phenotype visualization platform for precision trauma care.**
+
 <img src="https://github.com/user-attachments/assets/7816daa4-8984-48e6-a22a-ec3a055c19fb" width="480"><br/>
-URL: https://jotarotachino.shinyapps.io/TraumaApp250305/<br/>
-(last update: 22 July 2025)
+
+Live application: https://jotarotachino.shinyapps.io/TraumaApp250305/<br/>
+Repository README updated: 3 May 2026
+
+Trauma-Vis is an online research platform for real-time identification and visualization of trauma phenotypes, integrated with conventional trauma prognostic models including ISS, RTS, TRISS, rSIG, and a phenotype-augmented TRISS complementary model.
+
+## Citation
+If you use Trauma-Vis in academic work, please cite this repository using GitHub's **Cite this repository** function and cite the related publications listed below. Citation metadata are provided in [`CITATION.cff`](CITATION.cff).
+
+## Research contact
+**Jotaro Tachino**  
+Department of Traumatology and Acute Critical Care Medicine, University of Osaka, Japan
+
+Research areas: precision trauma care, trauma phenotyping, treatment-effect heterogeneity, prognostic modeling, and trauma proteomics.
 
 ## Trauma phenotype
 In previous research, eight trauma phenotypes were identified through cluster analysis of derivation cohort data from the Japan Trauma Data Bank (JTDB) from January 2013 to June 2015. The optimal number of clusters was determined using the average silhouette score and k-means method. After standardizing patient data, clustering was performed based on Euclidean distance using silhouette analysis, leading to the development of trauma phenotypes.<br/>
