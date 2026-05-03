@@ -5,6 +5,8 @@ type: software
 authors:
   - family-names: Tachino
     given-names: Jotaro
+  - family-names: Seno
+    given-names: Shigeto
 url: "https://github.com/jotarotachino/Trauma-Vis"
 repository-code: "https://github.com/jotarotachino/Trauma-Vis"
 abstract: "Trauma-Vis is a web-based platform for real-time trauma phenotype visualization and integration with conventional trauma prognostic models."
