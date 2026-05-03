@@ -13,8 +13,12 @@ Trauma-Vis is an online research platform for real-time identification and visua
 If you use Trauma-Vis in academic work, please cite this repository using GitHub's **Cite this repository** function and cite the related publications listed below. Citation metadata are provided in [`CITATION.cff`](CITATION.cff).
 
 ## Research contact
-**Jotaro Tachino**  
+**Jotaro Tachino, MD, PhD**  
 Department of Traumatology and Acute Critical Care Medicine, University of Osaka, Japan
+
+Research areas: precision trauma care, trauma phenotyping, treatment-effect heterogeneity, prognostic modeling, and trauma proteomics.
+
+Profiles: [researchmap](https://researchmap.jp/jotarotachino?lang=en) | [ORCID](https://orcid.org/0000-0002-0423-7713) | [PubMed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/jotaro.tachino.1/bibliography/public/) | [Google Scholar search](https://scholar.google.com/scholar?q=%22Jotaro%20Tachino%22)
 
 Research areas: precision trauma care, trauma phenotyping, treatment-effect heterogeneity, prognostic modeling, and trauma proteomics.
 
