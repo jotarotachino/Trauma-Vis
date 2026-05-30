@@ -34,6 +34,8 @@ Research collaborators are granted permission to save input data as datasheets i
 1) Tachino J., Matsumoto H., Sugihara F., Seno S., Okuzaki D., Kitamura T., Komukai S., Kido Y., Kojima T., Togami Y., Katayama Y., Nakagawa Y., Ogura H.: Development of clinical phenotypes and biological profiles via proteomic analysis of trauma patients. [Crit Care. 2022; 26:1:241.](https://ccforum.biomedcentral.com/articles/10.1186/s13054-022-04103-z)<br/>
 2) Tachino J., Seno S., Matsumoto H., Kitamura T., Hirayama A., Nakao S., Katayama Y., Ogura H., Oda J.: Association between tranexamic acid administration and mortality based on the trauma phenotype: a retrospective analysis of a nationwide trauma registry in Japan. [Crit Care. 2024; 28:1:89.](https://ccforum.biomedcentral.com/articles/10.1186/s13054-024-04871-w)<br/>
 3) Tachino J., Nakao S., Matsumoto H., Katayama Y., Kitamura T., Seno S., Oda J.: Approach to Optimizing Tranexamic Acid Use in Trauma: Potential Utilization of Trauma Phenotypes. [Thromb Haemost. 2026 online-ahead](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-2806-3484)
+4) Tachino J., Seno S., Matsumoto H., Kitamura T.,  Nakao S., Ogura H., Oda J.: Novel Online Platform for Trauma Care—Integrating Trauma Phenotypes to Optimize the Trauma and Injury Severity Score
+Model: Retrospective Cohort Study. [JMIR Med Inform. 2026]
 
 ## Legal Disclaimer and Terms of Use
 ### Purpose and Limitations
